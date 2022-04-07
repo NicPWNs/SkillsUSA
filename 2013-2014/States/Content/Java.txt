@@ -1,0 +1,1 @@
+<input type="button" onclick="parent.window.opener.location='http://google.com'; window.close();">
